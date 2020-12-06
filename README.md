@@ -7,3 +7,4 @@
 - [ ] ReactJS for UI
 - [ ] CI
 - [ ] Auto deploy
+- [ ] Green Rubocop
